@@ -1,3 +1,3 @@
-# datapod_for_python
+# et772_python_pip
 
-This is a Python project based on Datapod, currently can be used as a simple template for a Python project.
+This is a test module for the Python package management system.
